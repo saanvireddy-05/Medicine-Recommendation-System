@@ -2,6 +2,7 @@
 This project offers a Personalized Medical Recommendation System that helps users better understand and manage their health. By analyzing symptoms provided by users, it accurately predicts potential conditions using machine learning. Here’s what makes this system unique:
 
 Key Features:
+
 Intuitive User Interface: Easily input symptoms through a simple and user-friendly interface.
 
 Machine Learning-Powered Accuracy: The system uses advanced machine learning models to predict diseases accurately based on the provided symptoms.
